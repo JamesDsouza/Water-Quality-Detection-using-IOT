@@ -1,5 +1,5 @@
 # Water Quality Detection using IOT
 ## Water Quality detected using ph,turbidity,ultrasonic sensors
-![](systendesign.png)
+![](systen design.png)
 
  
